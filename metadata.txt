@@ -8,3 +8,4 @@ about=The plugin uses remote sensing data, which is followed by an automated cal
 version=1.0
 category=Analysis
 experimental=True
+repository=https://github.com/VBwork/QGIS-Plugin
