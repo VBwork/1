@@ -10,3 +10,4 @@ category=Analysis
 experimental=True
 tracker=https://github.com/VBwork/QGIS-Plugin
 repository=https://github.com/VBwork/QGIS-Plugin
+homepage=https://github.com/VBwork/QGIS-Plugin
