@@ -1,0 +1,10 @@
+[general]
+name=Territory Analysis
+email=Vladyslav.Borodatiuk@kname.edu.ud
+author=Vladyslav Borodatiuk
+qgisMinimumVersion=3.34.0
+description=This is an example of a plugin for creating an automated report on a comprehensive analysis of the territory using remote sensing data.
+about=The plugin uses remote sensing data, which is followed by an automated calculation of vegetation indices NDVI, EVI, GNDVI, CVI for their further analysis and the creation of relevant reports based on it.
+version=1.0
+category=Analysis
+experimental=True

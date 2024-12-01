@@ -1,0 +1,4 @@
+{
+    "python.autoComplete.extraPaths": ["C:\\Program Files\\QGIS 3.34.12\\apps\\qgis-ltr\\python",],
+    "python.defaultInterpreterPath": "C:\\Program Files\\QGIS 3.34.12\\apps\\Python312\\python3.exe"
+}
