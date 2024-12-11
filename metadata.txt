@@ -1,6 +1,6 @@
 [general]
 name=Territory Analysis
-email=Vladyslav.Borodatiuk@kname.edu.ud
+email=Vladyslav.Borodatiuk@kname.edu.ua
 author=Vladyslav Borodatiuk
 qgisMinimumVersion=3.34.0
 description=This is an example of a plugin for creating an automated report on a comprehensive analysis of the territory using remote sensing data.
